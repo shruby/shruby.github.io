@@ -1,0 +1,5 @@
+name: Shanghai Ruby User Group
+markdown: redcarpet
+pygments: true
+timezone: Asia/Shanghai
+keep_files:  ['.git']
