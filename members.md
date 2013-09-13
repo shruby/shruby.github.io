@@ -19,6 +19,10 @@ title: Group Members
 	非典型程序员，喜好 Unix 系统以及 CLI，在上海工作生活 10 多年。LifeHacker，从小学起开始拆装各类电子器件。
 	现在在某企业中开发移动应用为生。
 
+[Bachue Zhou](https://github.com/bachue)
+
+    周融，Ruby程序员，生在上海，长在上海，现在在EMC上海COE工作。喜欢 Ruby / Unix 编程。虽然平时写Ruby，却更喜欢热爱钻研底层原理和实现。
+
 ----
 
 # 荣誉成员
