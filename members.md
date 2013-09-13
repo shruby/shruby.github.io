@@ -20,6 +20,8 @@ title: Group Members
 	现在在某企业中开发移动应用为生。
 
 [Bachue Zhou](https://github.com/bachue)
+[![Twitter](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/iBachue)
+[![RubyChina](/assets/images/sprites/twitter.png)](https://twitter.com/iBachue)
 
     周融，Ruby程序员，生在上海，长在上海，现在在EMC上海COE工作。喜欢 Ruby / Unix 编程。虽然平时写Ruby，却更喜欢热爱钻研底层原理和实现。
 
