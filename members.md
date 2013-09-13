@@ -23,6 +23,10 @@ title: Group Members
 
     周融，Ruby程序员，生在上海，长在上海，现在在EMC上海COE工作。喜欢 Ruby / Unix 编程。虽然平时写Ruby，却更喜欢热爱钻研底层原理和实现。
 
+[JiaYang Song](https://github.com/songjiayang)
+
+    宋佳洋，阳光90后， Ruby程序员，喜欢创业，技术分享， 四川眉山人，2013/04/28一个人开始闯荡上海滩，目前工作于在www.gigabase.org.
+
 ----
 
 # 荣誉成员
