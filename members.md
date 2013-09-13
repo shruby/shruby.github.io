@@ -6,24 +6,25 @@ title: Group Members
 # 如何加入自己
 
 	1. Fork 这个 repository
-	2. 修改 members.md 文件，添加自己的一段	
+	2. 修改 members.md 文件，添加自己的一段，保持姓名的 A-Z的顺序
 	3. Push 上去，提交 Pull Request
 
 ----
-----
 
 # Group成员
-
-[Gene Wu](https://github.com/genewoo) 
-
-	非典型程序员，喜好 Unix 系统以及 CLI，在上海工作生活 10 多年。LifeHacker，从小学起开始拆装各类电子器件。
-	现在在某企业中开发移动应用为生。
 
 [Bachue Zhou](https://github.com/bachue)
 [![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/iBachue)
 [![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/iBachue)
 
     周融，Ruby程序员，生在上海，长在上海，现在在EMC上海COE工作。喜欢 Ruby / Unix 编程。虽然平时写Ruby，却更喜欢热爱钻研底层原理和实现。
+
+[Gene Wu](https://github.com/genewoo) 
+[![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/gene_wu)
+[![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/gene_wu)
+
+	非典型 Ruby 程序员，喜好 Unix 系统以及 CLI，在上海工作生活 10 多年。LifeHacker，从小学起开始拆装各类电子器件为乐。
+	现在在某企业中开发移动应用为生。
 
 [JiaYang Song](https://github.com/songjiayang)
 
