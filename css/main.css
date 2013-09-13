@@ -80,7 +80,6 @@ ul.posts span {
 
 .site .header h1.title a {
   color: #a00;
-  font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", sans-serif;
 }
 
 .site .header h1.title a:hover {
@@ -90,6 +89,7 @@ ul.posts span {
 .site .header a.extra {
   color: #aaa;
   margin-left: 1em;
+  font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", sans-serif;
 }
 
 .site .header a.extra:hover {
