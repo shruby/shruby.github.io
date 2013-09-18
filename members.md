@@ -30,6 +30,9 @@ title: Group Members
 
     宋佳洋，阳光90后， Ruby程序员，喜欢创业，技术分享， 四川眉山人，2013/04/28一个人开始闯荡上海滩，目前工作于在www.gigabase.org.
 
+[Minhua Bao](https://github.com/bao1018)
+
+    包敏华，80后的上海人，Ruby爱好者，目前在普华永道工作。喜欢看漫画，喜欢看球，喜欢研究前沿IT技术。
 ----
 
 # 荣誉成员
