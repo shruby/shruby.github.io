@@ -27,6 +27,8 @@ ShiningRay
 Bachue Zhou
 
 * From Ruby 1.8 to 1.9, Practical Way
+  * [Slides](http://106.187.100.121/slides_for_diff_rb18_rb19) [github](https://github.com/bachue/slides-for-diff-rb18-rb19)
+  * [Blog](http://bachue.is-programmer.com/posts/40540.html)
 
 Camel
 
