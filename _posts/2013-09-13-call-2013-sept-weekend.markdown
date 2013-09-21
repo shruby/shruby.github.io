@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "2013年9月周末聚会召集"
-date:   2013-09-13 14:14:07
-categories: monthly callup
+title:  "2013年9月周末聚会"
+date:   2013-09-21 14:14:07
+categories: monthly
 ---
 
-在本月21日，我们将迎来9月的周末聚会，非常抱歉的是这次占用了大家中秋的时间。
+在本月21日，我们迎来了9月的周末聚会，非常抱歉的是这次占用了大家中秋的时间。
 
 ##时间：2013年9月21日周六 下午3点到6点
 
@@ -22,7 +22,7 @@ categories: monthly callup
 
 ShiningRay
 
-* JRuby / Ruby Fiber
+* Ruby Fiber
 
 Bachue Zhou
 
@@ -34,11 +34,13 @@ Camel
 
 * 重造 [前端MVC轮子][mvc]
 
-Gene
+Gene Wu
 
 * Shanghai Ruby User Group Update
 
+Eric Guo
 
+* Scala for Ruby Developers
 
 
 
