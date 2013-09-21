@@ -1,4 +1,4 @@
-Shanghai Ruby User Group网站
+Shanghai Ruby User Group 网站
 ================
 
 # 如何安装 Jekyll
@@ -19,7 +19,7 @@ Shanghai Ruby User Group网站
 
 # 如何纪录新的博客
 
-你在_drafts目录下可以找到一个 sample_post.markdown 文件，拷贝到一个新的文件，建议使用 2013-09-13-word-word-word.markdown 的命名规范。你需要修改一下头部的 title，date 和 categories。然后在之后的主体里面用 MarkDown 纪录就可以了。
+你在 _drafts 目录下可以找到一个 sample_post.markdown 文件，拷贝到一个新的文件，建议使用 2013-09-13-word-word-word.markdown 的命名规范。你需要修改一下头部的 title，date 和 categories。然后在之后的主体里面用 Markdown 纪录就可以了。
 
     ---
     layout: post
@@ -32,14 +32,14 @@ Shanghai Ruby User Group网站
     
     jekyll serve --watch --drafts
     
-如果一切都看上去不错，就把这个文件转移到_posts目录下就好了。然后提交Poll request。
+如果一切都看上去不错，就把这个文件转移到 _posts 目录下就好了。然后提交 pull request。
 
 
 # 格式规范
 
 * 最好在英文周边加空格，这样效果会更清晰。本文就以此规范写成。
 * 尽量使用底部的相关链接来作 Markdown 的链接。
-* 使用外部链接资源，比如 [Flickr][flickr] 以及 [Speaker Deck][speakerdeck]减少 Repository 的大小，更轻便，更快捷。
+* 使用外部链接资源，比如 [Flickr][flickr] 以及 [Speaker Deck][speakerdeck] 减少 Repository 的大小，更轻便，更快捷。
 
 [flickr]: http://flickr.com
 [debug]: http://localhost:4000
