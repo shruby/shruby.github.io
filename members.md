@@ -19,7 +19,13 @@ title: Group Members
 
     周融，Ruby程序员，生在上海，长在上海，现在在EMC上海COE工作。喜欢 Ruby / Unix 编程。虽然平时写Ruby，却更喜欢热爱钻研底层原理和实现。
 
-[Gene Wu](https://github.com/genewoo) 
+[Eric Guo](https://github.com/Eric-Guo)
+[![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/ericguo)
+[![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/ecguo)
+
+	过纯中，.NET->Ruby的老码农，上海大叔，现在在SanDisk闵行半导体工厂工作，希望有生之年能在Rails做一个开源的MES生产执行系统软件。
+
+[Gene Wu](https://github.com/genewoo)
 [![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/gene_wu)
 [![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/gene_wu)
 
