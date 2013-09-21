@@ -36,7 +36,9 @@ Gene
 
 * Shanghai Ruby User Group Update
 
+Eric Guo
 
+* Scala for Ruby Developers
 
 
 
