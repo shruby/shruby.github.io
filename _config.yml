@@ -6,3 +6,7 @@ keep_files:  ['.git']
 site: http://shruby.github.io
 url: http://shruby.github.io
 description: 'Web site of ShRuby.github.io'
+
+save: true
+lsi: false
+pygments: true
