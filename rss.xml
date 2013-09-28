@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Shanghai Ruby User Group</title>
+    <link>http://shruby.github.io</link>
+    <description>Web site of ShRuby.github.io</description>
+    <pubDate>Sat, 21 Sep 2013 22:14:07 +0800</pubDate>
+    <item>
+      <title>2013年9月周末聚会</title>
+      <link>http://shruby.github.io/monthly/2013/09/21/call-2013-sept-weekend.html</link>
+      <description>在本月21日，我们迎来了9月的周末聚会，非常抱歉的是这次占用了大家中秋的时间。
+
+[discuss]: http://ruby-china.org/topics/14059
+[mvc]: https://github.com/camsong/yui.rocket</description>
+      <pubDate>Sat, 21 Sep 2013 22:14:07 +0800</pubDate>
+      <dc:date>2013-09-21T22:14:07+08:00</dc:date>
+    </item>
+    <item>
+      <title>开张啦</title>
+      <link>http://shruby.github.io/jekyll/update/2013/09/12/welcome-to-jekyll.html</link>
+      <description>本周二的聚会上，我提出要做一个简单的 Blog 放在 Github 上，纪录一下我们历次活动和活跃成员的列表。得到了大家一致的赞同，所以我就很快用 [Jekyll][jekyll] 搭设了一个很简陋的 Blog，我们要重在质量。
+
+[shruby]: https://github.com/shruby/shruby.github.io
+[jekyll]: http://jekyllrb.com
+[issue]: https://github.com/shruby/shruby.github.io/issues/new</description>
+      <pubDate>Thu, 12 Sep 2013 21:14:07 +0800</pubDate>
+      <dc:date>2013-09-12T21:14:07+08:00</dc:date>
+    </item>
+    <dc:date>2013-09-21T22:14:07+08:00</dc:date>
+  </channel>
+</rss>
