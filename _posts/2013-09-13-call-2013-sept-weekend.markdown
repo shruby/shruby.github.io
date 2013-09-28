@@ -42,6 +42,8 @@ Gene Wu
 Eric Guo
 
 * Scala for Ruby Developers
+	* Almost all content can be read from [Ryan LeCompte's talk](http://parleys.com/play/51c178ece4b0d38b54f46217)
+	* Another general introduction: [Scala: The Multi-Paradigm Language for the Multi-Core Age](http://youtu.be/gD6GPBOdfXI) or [Youku](http://v.youku.com/v_show/id_XNjEzOTEyNzM2.html)
 
 
 
