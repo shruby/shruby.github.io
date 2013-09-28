@@ -23,6 +23,7 @@ categories: monthly
 ### ShiningRay
 
 * Ruby Fiber
+  * [Slides](https://speakerdeck.com/shiningray/fiber-and-em-synchrony)
 
 其演讲深入浅出的讲解了什么是Fiber，以及Fiber的一些通常的应用场景。对大家使用Ruby并发起到了抛砖引玉的作用。
 
@@ -30,7 +31,7 @@ categories: monthly
 ### Bachue Zhou
 
 * From Ruby 1.8 to 1.9, Practical Way
-  * [Slides](http://106.187.100.121/slides_for_diff_rb18_rb19) [github](https://github.com/bachue/slides-for-diff-rb18-rb19)
+  * [Slides](http://bachue.github.io/slides-for-diff-rb18-rb19) [github](https://github.com/bachue/slides-for-diff-rb18-rb19)
   * [Blog](http://bachue.is-programmer.com/posts/40540.html)
   
 很详尽的讲解了对于一个从Ruby1.8升级到Ruby1.9应当注意的问题，举了很多实际的例子和解决方案，他的Slide很有料。
@@ -51,6 +52,8 @@ Gene与大家商讨了如何将Shanghai Ruby用户组建立成一个开源型的
 ### Eric Guo
 
 * Scala for Ruby Developers
+	* Almost all content can be read from [Ryan LeCompte's talk](http://parleys.com/play/51c178ece4b0d38b54f46217)
+	* Another general introduction: [Scala: The Multi-Paradigm Language for the Multi-Core Age](http://youtu.be/gD6GPBOdfXI) or [Youku](http://v.youku.com/v_show/id_XNjEzOTEyNzM2.html)
 
 Eric和大家分享了最近学习的Scala的兴得体会，估计Ruby Developer更多学习其他语言丰富自己的技术储备。
 
