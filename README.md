@@ -32,7 +32,12 @@ Shanghai Ruby User Group 网站
     
     jekyll serve --watch --drafts
     
-如果一切都看上去不错，就把这个文件转移到 _posts 目录下就好了。然后提交 pull request。
+如果一切都看上去不错，就把这个文件转移到 _posts 目录下再commit。
+
+由于 Github page 的限制，其无法使用第三方生成插件，所以你需要多做一步工作，在你的拷贝的根目录下运行 ```rake``` ,这样就会自动生成rss.xml文件，github page 就可以自动获取
+
+最后一步，提交 pull request ！
+
 
 
 # 格式规范
