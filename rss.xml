@@ -8,7 +8,16 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Sat, 21 Sep 2013 22:14:07 +0800</pubDate>
+    <pubDate>Mon, 30 Sep 2013 07:51:20 +0800</pubDate>
+    <item>
+      <title>为 Shanghai Ruby User Group 创建了一个 Twitter 同步账号</title>
+      <link>http://shruby.github.io/twitter/accounts/2013/09/30/new-twitter-account-for-shruby.html</link>
+      <description>之前在 [Github](https://github.com/shruby/shruby.github.io/issues/27) 上提到过要为 Shanghai Ruby User Group 弄个 Twitter 账号同步Feeds，经过一晚上的编码，已经完成了。
+
+</description>
+      <pubDate>Mon, 30 Sep 2013 07:51:20 +0800</pubDate>
+      <dc:date>2013-09-30T07:51:20+08:00</dc:date>
+    </item>
     <item>
       <title>2013年9月周末聚会</title>
       <link>http://shruby.github.io/monthly/2013/09/21/call-2013-sept-weekend.html</link>
@@ -30,6 +39,6 @@
       <pubDate>Thu, 12 Sep 2013 21:14:07 +0800</pubDate>
       <dc:date>2013-09-12T21:14:07+08:00</dc:date>
     </item>
-    <dc:date>2013-09-21T22:14:07+08:00</dc:date>
+    <dc:date>2013-09-30T07:51:20+08:00</dc:date>
   </channel>
 </rss>
