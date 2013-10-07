@@ -8,7 +8,18 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Mon, 30 Sep 2013 07:51:20 +0800</pubDate>
+    <pubDate>Mon, 07 Oct 2013 19:07:00 +0800</pubDate>
+    <item>
+      <title>2013年10月15日 Ruby Tuesday活动召集（周二）</title>
+      <link>http://shruby.github.io/monthly/2013/10/07/call-2013-oct-ruby-tuesday.html</link>
+      <description>Hi, 大家好，
+本月Ruby Tuesday将预备安排在十月第三个周二，也就是10月15日。到那天想必大家都回来了吧。
+这次活动计划在浦西举办，地点是大家熟悉的静安寺。
+
+</description>
+      <pubDate>Mon, 07 Oct 2013 19:07:00 +0800</pubDate>
+      <dc:date>2013-10-07T19:07:00+08:00</dc:date>
+    </item>
     <item>
       <title>为 Shanghai Ruby User Group 创建了一个 Twitter 同步账号</title>
       <link>http://shruby.github.io/twitter/accounts/2013/09/30/new-twitter-account-for-shruby.html</link>
@@ -39,6 +50,6 @@
       <pubDate>Thu, 12 Sep 2013 21:14:07 +0800</pubDate>
       <dc:date>2013-09-12T21:14:07+08:00</dc:date>
     </item>
-    <dc:date>2013-09-30T07:51:20+08:00</dc:date>
+    <dc:date>2013-10-07T19:07:00+08:00</dc:date>
   </channel>
 </rss>
