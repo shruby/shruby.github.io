@@ -1,0 +1,3 @@
+[submodule "github-cards"]
+	path = github-cards
+	url = https://github.com/lepture/github-cards.git
