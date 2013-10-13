@@ -32,13 +32,6 @@ title: Group Members
 	非典型 Ruby 程序员，喜好 Unix 系统以及 CLI，在上海工作生活 10 多年。LifeHacker，从小学起开始拆装各类电子器件为乐。
 	现在在某企业中开发移动应用为生。
 
-[Vincent178](https://github.com/vincent178)
-[![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/vincent178)
-[![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/Vincent_178)
-
-  半路出家的程序员, unix 粉, 喜欢 Ruby 和 Objective-C . 希望能够做一个有用的应用.
-  热爱音乐,动漫,篮球,骑行.
-
 [JiaYang Song](https://github.com/songjiayang)
 
     宋佳洋，阳光 90 后， Ruby 程序员，喜欢创业，技术分享， 四川眉山人，2013/04/28 一个人开始闯荡上海滩，目前工作于在 www.gigabase.org.
@@ -46,6 +39,13 @@ title: Group Members
 [Minhua Bao](https://github.com/bao1018)
 
     包敏华，80 后的上海人，Ruby 爱好者，目前在普华永道工作。喜欢看漫画，喜欢看球，喜欢研究前沿 IT 技术。
+
+[Vincent178](https://github.com/vincent178)
+[![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/vincent178)
+[![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/Vincent_178)
+
+  半路出家的程序员, unix 粉, 喜欢 Ruby 和 Objective-C . 希望能够做一个有用的应用.
+  热爱音乐,动漫,篮球,骑行.
 
 ----
 
