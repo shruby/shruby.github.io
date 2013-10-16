@@ -29,3 +29,16 @@ Hi, 大家好，
 * 关于组队前往 RubyConf 2013
 * 关于发起一个 Jekyll Generator Service 项目的讨论 (hosted by [Gene Wu](http://twitter.com/gene_wu))
 
+####会后总结
+
+活动照片：
+
+![照片](http://d.pr/i/LJyN+)
+
+本次活动没有 Topic，主要由 [Gene Wu](http://twitter.com/gene_wu) 宣传他关于在线 Jekyll 编辑 和 Build 服务的构想。
+
+在这次会议中，来自杭州的 RubyConfChina 2012 讲师，Gitlab 之神 [@Saito](https://twitter.com/SaitoWu) 向我们做出了宝贵的批评，我们将在以后的 RubyTuesday 活动中努力改进，争取每次都做到有一定实质性的主题分享。
+
+这里还有一篇由 [@small\_fish\_\_](http://ruby-china.org/small_fish__) 做出的[总结](http://dianrui.weidaxue.me/blogs/3)，非常详细和深入的提出了自己对于 Jekyll 服务的想法，欢迎阅读。
+
+另，本次活动是今年十月唯一一次活动，因为月末将在北京召开 [RubyConfChina](http://rubyconfchina.org) 大会，故一切上海活动取消。下次活动将安排在十一月。先提前向大家征集主题分享，欢迎跟帖回复，谢谢。
