@@ -40,6 +40,12 @@ title: Group Members
 
     包敏华，80 后的上海人，Ruby 爱好者，目前在普华永道工作。喜欢看漫画，喜欢看球，喜欢研究前沿 IT 技术。
 
+
+[Ryan Lv](https://github.com/xiaoronglv)
+
+	吕小荣，前医生，做了2年产品经理，目前是个 Ruby 程序员
+
+
 [Vincent178](https://github.com/vincent178)
 [![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/vincent178)
 [![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/Vincent_178)
@@ -51,7 +57,7 @@ title: Group Members
 
 # 荣誉成员
 
-[Danile Lv](https://github.com/lgn21st)
+[Daniel Lv](https://github.com/lgn21st)
 
 	Daniel Lv (吕国宁) Ruby 程序员，专职 Ruby on Rails 以及 Web 应用开发，生于新疆乌鲁木齐，在上海工作 10 多年后移居青岛。
 	[Shanghaionrails] 在线社区的发起人和组织者， RubyChina 社区的联合创始人，管理员。
