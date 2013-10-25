@@ -5,7 +5,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
-        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+        <script src="/assets/galleria/galleria-1.3.min.js"></script>
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
@@ -17,12 +18,10 @@
 
     </head>
     <body>
-
         <div class="site">
           {% include header.html %}
           {{ content }}
           {% include footer.html %}
-
         </div>
 {% include ga.html %}
     </body>

@@ -60,11 +60,12 @@ Eric和大家分享了最近学习的Scala的兴得体会，估计Ruby Developer
 
 ## 现场照片
 
-![image](http://farm8.staticflickr.com/7311/9981979535_36219938ca_z.jpg)
-![image](http://farm3.staticflickr.com/2874/9982002134_479f44c43a_z.jpg)
-![image](http://farm8.staticflickr.com/7339/9982123153_8eebf92ea4_z.jpg)
-![image](http://farm8.staticflickr.com/7336/9982005195_766b086137_z.jpg)
-
+<div id="galleria" style="height: 400px">
+<img src="http://farm8.staticflickr.com/7311/9981979535_36219938ca_z.jpg"/>
+<img src="http://farm3.staticflickr.com/2874/9982002134_479f44c43a_z.jpg"/>
+<img src="http://farm8.staticflickr.com/7339/9982123153_8eebf92ea4_z.jpg"/>
+<img src="http://farm8.staticflickr.com/7336/9982005195_766b086137_z.jpg"/>
+</div>
 
 [discuss]: http://ruby-china.org/topics/14059
 [mvc]: https://github.com/camsong/yui.rocket
