@@ -8,7 +8,25 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Mon, 07 Oct 2013 19:07:00 +0800</pubDate>
+    <pubDate>Thu, 07 Nov 2013 22:14:07 +0800</pubDate>
+    <item>
+      <title>2013年11月12日 Ruby Tuesday 活动召集 (周二)</title>
+      <link>http://shruby.github.io/monthly/callup/2013/11/07/weekday.html</link>
+      <description>在本月12日，我们将迎来11月的周中聚会。
+
+[dianping]: http://www.dianping.com/shop/4600640</description>
+      <pubDate>Thu, 07 Nov 2013 22:14:07 +0800</pubDate>
+      <dc:date>2013-11-07T22:14:07+08:00</dc:date>
+    </item>
+    <item>
+      <title>2013年11月23日 Ruby Weekend 活动召集</title>
+      <link>http://shruby.github.io/monthly/2013/11/01/call-2013-nov-weekend.html</link>
+      <description>
+
+</description>
+      <pubDate>Fri, 01 Nov 2013 19:07:00 +0800</pubDate>
+      <dc:date>2013-11-01T19:07:00+08:00</dc:date>
+    </item>
     <item>
       <title>2013年10月15日 Ruby Tuesday 活动召集 (周二)</title>
       <link>http://shruby.github.io/monthly/2013/10/07/call-2013-oct-ruby-tuesday.html</link>
@@ -50,6 +68,6 @@
       <pubDate>Thu, 12 Sep 2013 21:14:07 +0800</pubDate>
       <dc:date>2013-09-12T21:14:07+08:00</dc:date>
     </item>
-    <dc:date>2013-10-07T19:07:00+08:00</dc:date>
+    <dc:date>2013-11-07T22:14:07+08:00</dc:date>
   </channel>
 </rss>
