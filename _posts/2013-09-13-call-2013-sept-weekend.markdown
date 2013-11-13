@@ -66,6 +66,12 @@ Eric和大家分享了最近学习的Scala的兴得体会，估计Ruby Developer
 <img src="http://farm8.staticflickr.com/7339/9982123153_8eebf92ea4_z.jpg"/>
 <img src="http://farm8.staticflickr.com/7336/9982005195_766b086137_z.jpg"/>
 </div>
+<!-- START: galleria -->
+<script type="text/javascript">
+  Galleria.loadTheme('/assets/galleria/themes/classic/galleria.classic.min.js');
+  Galleria.run('#galleria');
+</script>
+<!-- END: galleria -->
 
 [discuss]: http://ruby-china.org/topics/14059
 [mvc]: https://github.com/camsong/yui.rocket
