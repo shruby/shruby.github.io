@@ -53,6 +53,12 @@ title: Group Members
   半路出家的程序员, unix 粉, 喜欢 Ruby 和 Objective-C . 希望能够做一个有用的应用.
   热爱音乐,动漫,篮球,骑行.
 
+[xfstart07](https://github.com/xfstart07)
+[![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/xfstart07)
+[![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/xfstart07)
+
+    徐飞，喜欢Linux 和Ruby 。刚来上海没多久，目前在邻里缘工作。
+
 ----
 
 # 荣誉成员
