@@ -57,7 +57,7 @@ title: Group Members
 [![RubyChina](/assets/images/sprites/ruby_china.png)](http://ruby-china.org/xfstart07)
 [![Twitter](/assets/images/sprites/twitter.png)](https://twitter.com/xfstart07)
 
-  徐飞，喜欢Linux 和Ruby 。刚来上海没多久，目前在[邻里缘](http://linliyuan.com/about/us)工作。
+    徐飞，喜欢Linux 和Ruby 。刚来上海没多久，目前在邻里缘工作。
 
 ----
 
