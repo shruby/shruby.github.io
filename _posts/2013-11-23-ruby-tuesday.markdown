@@ -13,9 +13,9 @@ categories: monthly callup
 
 地图:
 
-![](http://shruby.u.qiniudn.com/2013-11-23-2.jpg)
+![](http://shruby.u.qiniudn.com/2013-11-23-2.jpg?imageView/0/w/700)
 
-Topic(暂定):
+Topic
 
   - [@quakewang](http://ruby-china.org/quakewang) Prawn
 
@@ -36,7 +36,7 @@ Topic(暂定):
 
 活动现场照片
 
-![](http://shruby.u.qiniudn.com/2013-11-23-1.jpg)
+![](http://shruby.u.qiniudn.com/2013-11-23-1.jpg?imageView/0/w/700)
 
 
 
