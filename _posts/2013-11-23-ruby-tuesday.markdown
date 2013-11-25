@@ -37,7 +37,32 @@ Topic
 
 活动现场照片
 
-![](http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23-1.jpg?imageView/0/w/700)
+<div id="galleria" style="height: 400px">
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23-1.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 14.09.21.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 14.09.26.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 14.09.30.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 14.44.48.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.01.07.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.39.09.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.39.30.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.43.16.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.43.17-1.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.43.17-2.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.43.19-1.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 16.43.19-2.jpg?imageView/0/w/700" />
+<img src="http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23 17.11.35.jpg?imageView/0/w/700" />
+
+</div>
+<!-- START: galleria -->
+<script type="text/javascript">
+  Galleria.loadTheme('/assets/galleria/themes/classic/galleria.classic.min.js');
+  Galleria.run('#galleria');
+</script>
+<!-- END: galleria -->
+
+
+![]()
 
 
 
