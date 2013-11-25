@@ -13,7 +13,7 @@ categories: monthly callup
 
 地图:
 
-![](http://shruby.u.qiniudn.com/2013-11-23-2.jpg?imageView/0/w/700)
+![](http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23-2.jpg?imageView/0/w/700)
 
 Topic
 
@@ -37,7 +37,7 @@ Topic
 
 活动现场照片
 
-![](http://shruby.u.qiniudn.com/2013-11-23-1.jpg?imageView/0/w/700)
+![](http://shruby.u.qiniudn.com/201311WeekEnd2013-11-23-1.jpg?imageView/0/w/700)
 
 
 
