@@ -18,6 +18,7 @@ categories: monthly callup
 Topic
 
   - [@quakewang](http://ruby-china.org/quakewang) Prawn
+    - [Slides](http://quake.github.io/slides/prawn/index.html)
 
   - [@Vincent](http://ruby-china.org/vincent) 如何搞垮一个 Ruby on Rails 系统
 
