@@ -2,12 +2,22 @@
 layout: default
 title: Shanghai Ruby User Group
 ---
+{% for post in site.posts %}
+<div class="posts">
+<h1 class="content-subhead">{{ post.date | date_to_string }}</h1>
+	<section class="posts">
+		<header class="post-header"><a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
+		<p class="post-meta">
+			{% for category in post.categories %}
+			#{{ category }}
+			{% endfor %}
+		</p>
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+		<div class="post-description">
+            <p>
+                {{ post.excerpt }}...
+            </p>
+        </div>
+	</section>
 </div>
+{% endfor %}
