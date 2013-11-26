@@ -16,7 +16,45 @@
         <!-- pure CSS -->
         <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure.css">
         <link rel="stylesheet" href="http://purecss.io/combo/1.7.8?/css/layouts/blog.css">        
-        <style type="text/css">.header h1,.hero h1,.hero h2,.tk-omnes-pro{font-family:"omnes-pro",sans-serif;}</style>
+        <style type="text/css">
+            .header h1,.hero h1,.hero h2,.tk-omnes-pro 
+            {
+                font-family:"omnes-pro",sans-serif;
+            }
+
+            #layout .sidebar {
+                min-width: 190px;
+            }
+
+            #layout .pure-button {
+                line-height: 24px;
+            }
+
+            @media (min-width: 767px) {
+                #layout .sidebar {
+                    width: 15%;
+                    max-width: 230px;
+                }
+            }
+
+            @media (max-width: 403px) and (min-width: 335px) {
+                #layout .pure-button {
+                    font-size: 80%;
+                }
+            }
+
+            @media (max-width: 335px) and (min-width: 295px) {
+                #layout .pure-button {
+                    font-size: 70%;
+                }
+            }
+
+            @media (max-width: 295px) {
+                #layout .pure-button {
+                    font-size: 60%;
+                }
+            }
+        </style>
 
     </head>
     <body>
