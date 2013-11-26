@@ -60,9 +60,3 @@ Topic
   Galleria.run('#galleria');
 </script>
 <!-- END: galleria -->
-
-
-![]()
-
-
-
