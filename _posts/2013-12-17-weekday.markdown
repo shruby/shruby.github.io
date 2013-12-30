@@ -23,4 +23,24 @@ categories: weekday callup
 * [@adieu](http://ruby-china.org/adieu) Docker
   - [Slides](http://www.slideshare.net/dotCloud/docker-intro-november)
 
+## 现场照片
+
+<div id="galleria" style="height: 400px">
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2019.26.13.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2019.26.21.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2019.26.34.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2019.27.00.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2019.37.26.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2020.34.50.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2020.34.27.jpg?imageView/0/w/700"/>
+<img src="http://shruby.u.qiniudn.com/201312WeekDay2013-12-17%2020.34.50.jpg?imageView/0/w/700"/>
+</div>
+<!-- START: galleria -->
+<script type="text/javascript">
+  Galleria.loadTheme('/assets/galleria/themes/classic/galleria.classic.min.js');
+  Galleria.run('#galleria');
+</script>
+<!-- END: galleria -->
+
+  
 [dianping]: http://www.dianping.com/shop/4600640
