@@ -8,7 +8,18 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Fri, 13 Dec 2013 22:14:07 +0800</pubDate>
+    <pubDate>Mon, 30 Dec 2013 22:14:07 +0800</pubDate>
+    <item>
+      <title>2014年元月周末聚会</title>
+      <link>http://shruby.github.io/monthly/2013/12/30/call-2014-jan-weekend.html</link>
+      <description>在2014年元月19日，我们将迎来2014年的第一次周末聚会。无需报名, 没有限制, 只要有兴趣, 想来就来。
+
+[nov2013]: http://shruby.github.io/monthly/callup/2013/11/23/ruby-tuesday.html
+[sept2013]: http://shruby.github.io/monthly/2013/09/21/call-2013-sept-weekend.html
+[discuss]: http://ruby-china.org/topics/node31</description>
+      <pubDate>Mon, 30 Dec 2013 22:14:07 +0800</pubDate>
+      <dc:date>2013-12-30T22:14:07+08:00</dc:date>
+    </item>
     <item>
       <title>2013年12月17日 Ruby Tuesday 活动召集 (周二)</title>
       <link>http://shruby.github.io/weekday/callup/2013/12/13/weekday.html</link>
@@ -77,6 +88,6 @@
       <pubDate>Thu, 12 Sep 2013 21:14:07 +0800</pubDate>
       <dc:date>2013-09-12T21:14:07+08:00</dc:date>
     </item>
-    <dc:date>2013-12-13T22:14:07+08:00</dc:date>
+    <dc:date>2013-12-30T22:14:07+08:00</dc:date>
   </channel>
 </rss>
