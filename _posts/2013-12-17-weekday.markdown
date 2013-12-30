@@ -18,7 +18,9 @@ categories: weekday callup
 
 ####交通：地铁二号线或者七号线 静安寺站
 
+####Topic
 
-- 讨论和收集周末聚会题目。
+* [@adieu](http://ruby-china.org/adieu) Docker
+  - [Slides](http://www.slideshare.net/dotCloud/docker-intro-november)
 
 [dianping]: http://www.dianping.com/shop/4600640
