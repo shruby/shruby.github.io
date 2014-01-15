@@ -17,6 +17,8 @@ categories: monthly
 
 ##主题:
 
+[@iBachue](http://ruby-china.org/iBachue), Ruby under a microscope
+
 征集主题中，欢迎提出主题申请
 
 ##往届周末聚会
