@@ -1,25 +1,30 @@
 ---
 layout: post
 title:  "2014年二月周末聚会"
-date:   2013-12-30 14:14:07
+date:   2014-2-10 14:14:07
 categories: monthly
 ---
 
-在2014年二月某日，我们将迎来2014年的第一次周末聚会。无需报名, 没有限制, 只要有兴趣, 想来就来。
+在2014年二月23日，我们将迎来2014年的第一次周末聚会。无需报名, 没有限制, 只要有兴趣, 想来就来。
 
 ##时间：2014年2月某周末 下午2点到5点
 
-##地点：待定，如您有场地提供，请在帖子里面提及，万分感谢！
+##地点： Vcooline，上海浦东软件园一期22号楼309室
 
-##交通方式：
+##交通方式：地铁二号线，金科路站
 
 ##讨论：移步Ruby-China的帖子里参与[讨论][discuss]
 
 ##主题:
 
-[@iBachue](http://ruby-china.org/iBachue), Ruby under a microscope
+- [@iBachue](http://ruby-china.org/iBachue), Ruby under a microscope
+- yedingding : fengche.co系统构架/创业文化
+- Teddy : build awesome command line applications in ruby
 
 征集主题中，欢迎提出主题申请
+
+![MeetingRoom1](http://shruby.u.qiniudn.com/201402WeekEndPlace1.jpg)
+![MeetingRoom2](http://shruby.u.qiniudn.com/201402WeekEndPlace2.jpg)
 
 ##往届周末聚会
 
