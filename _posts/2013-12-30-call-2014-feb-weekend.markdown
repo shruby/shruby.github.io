@@ -21,6 +21,7 @@ categories: monthly
   - [Slides](http://bachue.github.io/ruby-under-a-microscope-introduction-slides)
 - yedingding : fengche.co系统构架/创业文化
 - Teddy : build awesome command line applications in ruby
+  - [TPP](https://gist.github.com/teddy-ma/9182722)
 
 征集主题中，欢迎提出主题申请
 
