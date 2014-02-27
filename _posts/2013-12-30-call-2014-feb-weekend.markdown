@@ -37,3 +37,36 @@ categories: monthly
 [discuss]: http://ruby-china.org/topics/node31
 
 ## 现场照片
+
+<div id="galleria" style="height: 400px">
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-001.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-002.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-003.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-004.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-005.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-006.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-007.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-008.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-009.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-010.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-011.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-012.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-013.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-014.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-015.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-016.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-017.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-018.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-019.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-020.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-021.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-022.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-023.JPG?imageView/0/w/700"/>
+  <img src="http://shruby.u.qiniudn.com/2014-02-23-024.JPG?imageView/0/w/700"/>
+</div>
+<!-- START: galleria -->
+<script type="text/javascript">
+  Galleria.loadTheme('/assets/galleria/themes/classic/galleria.classic.min.js');
+  Galleria.run('#galleria');
+</script>
+<!-- END: galleria -->
