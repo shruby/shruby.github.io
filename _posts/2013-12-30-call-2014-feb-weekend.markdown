@@ -18,7 +18,7 @@ categories: monthly
 ##主题:
 
 - Gene: Summary of Ruby Shanghai User Group 2013
-  - [Slides](http://bachue.github.io/shrubyslides/#/) Summary of Ruby Shanghai User Group 2013
+  - [Slides](/shrubyslides/2013.html) Summary of Ruby Shanghai User Group 2013
 - yedingding : fengche.co系统构架/创业文化
 - Teddy : build awesome command line applications in ruby
   - [TPP](https://gist.github.com/teddy-ma/9182722)
