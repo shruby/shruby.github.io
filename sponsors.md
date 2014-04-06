@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sponsors
 title: 赞助方
 ---
 
