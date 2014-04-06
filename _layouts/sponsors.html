@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1>赞助公司</h1>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">
+</code></pre></div>
+<hr>
+{% for sponsor in site.data.sponsors %}
+    <p>
+      <a href="{{ sponsor.url }}"><img src="{{ sponsor.image }}" alt="{{ sponsor.name }}" /></a>
+    </p>
+    <div class="highlight">
+      <pre>
+<code class="text language-text" data-lang="text">{{ sponsor.introduction }}</code>
+    </div>
+  {% endfor %}
+<hr>

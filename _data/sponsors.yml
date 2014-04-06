@@ -1,0 +1,21 @@
+- name: ARM
+  url: http://www.arm.com
+  image: http://www.arm.com/images/site/arm_logo.gif
+  introduction: ARM Holdings 是全球领先的半导体知识产权 (IP) 提供商，并因此在数字电子产品的开发中处于核心地位。ARM 的总部位于Cambridge, 英国，拥有 2000 多名员工，并且在全球范围内设立了多个办事处，包括位于中国台湾、法国、印度、瑞典和美国的设计中心。
+  include: arm.md
+- name: 薄荷网
+  url: http://www.boohee.com
+  image: http://www.boohee.com/images/common/logo_v1.png
+  introduction: 引领健康减肥潮流，薄荷网为您提供量身定制的减肥方案，简单有效的减肥工具，辅以瘦身课程、减肥论坛和食物热量查询等服务，让您瘦得健康，瘦得漂亮！
+- name: 微客来Vcooline
+  url: http://www.vcooline.com
+  image: http://www.vcooline.com/images/home_upload/logo.jpg
+  introduction: 微客来（Vcooline），是微信营销行业领导品牌，专注于提供微信营销、微信推广、微信运营等解决方案，助力企业微营销。
+- name: GitCafe
+  url: http://gitcafe.com
+  image: http://gitcafe.com/assets/logo-8938424ab9a1a7eeef2414fc49256be3.png
+  introduction: GitCafe 是一个为您在线托管软件项目的服务平台。 这里是一个大家庭，您可以在 GitCafe 与他人快乐地进行项目分享与协作。 现在就加入 GitCafe，找到喜欢的项目与志同道合的程序员！
+- name: 安全宝
+  url: http://anquanbao.com
+  image: http://anquanbao.com/img/home/logo.jpg
+  introduction: 安全宝为网站和移动应用提供零部署、零维护的一站式云安全防护、CDN加速、页面优化以及深度数据分析和水晶报表展现。
