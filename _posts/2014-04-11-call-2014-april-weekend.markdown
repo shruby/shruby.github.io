@@ -5,7 +5,10 @@ date:   2014-4-11 14:14:07
 categories: monthly
 ---
 
-在2014年4月27日，我们将迎来2014年的第二次周末聚会。没有限制, 只要有兴趣, 想来就来。我们这次想尝试在19屋报名，这样的目的是为了能够更好的统计人数，做好准备。
+在2014年4月27日，我们将迎来2014年的第二次周末聚会。
+本次活动依然**免费**，不过我们这次想尝试在19屋**报名**，这样的目的是为了能够更好的统计人数，做好准备。
+
+## 报名地址： [http://19wu.com/shanghairubytuesday][报名]
 
 ##时间：2014年4月27日 下午2点到5点
 
@@ -17,15 +20,15 @@ categories: monthly
 
 ##主题:
 
-- 神秘主题 : 保留神秘到最后一刻，社区重磅选手
-- jjym : minidown的前世今生 *待定*
-- xmonkeycn : 极客跑步 *待定*
+- 神秘主题: 保留神秘到最后一刻，社区重磅选手
+- [jjym][jjym]: minidown的前世今生 *待定*
+- [xmonkeycn][xmonkeycn]: 极客跑步 *待定*
 
 同时征集主题中！
 
 ##场地赞助: gitcafe
 
-[GitCafe][gitcafe] 是一个为您在线托管软件项目的服务平台。 这里是一个大家庭，您可以在 GitCafe 与他人快乐地进行项目分享与协作。 现在就加入 GitCafe，找到喜欢的项目与志同道合的程序员！
+[GitCafe][gitcafe] 是一个为您在线托管软件项目的服务平台。 这里是一个大家庭，您可以在 [GitCafe][gitcafe] 与他人快乐地进行项目分享与协作。 现在就加入 [GitCafe][gitcafe]，找到喜欢的项目与志同道合的程序员！
 
 
 ##往届周末聚会
@@ -41,6 +44,9 @@ categories: monthly
 [feb2014]: http://shruby.github.io/monthly/2014/02/10/call-2014-feb-weekend.html
 [discuss]: http://ruby-china.org/topics/node31
 [gitcafe]: http://gitcafe.com
+[报名]: http://19wu.com/shanghairubytuesday
+[jjym]: http://ruby-china.org/jjym
+[xmonkeycn]: http://ruby-china.org/xmonkeycn
 
 ## 现场照片
 
