@@ -8,17 +8,53 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Mon, 30 Dec 2013 22:14:07 +0800</pubDate>
+    <pubDate>Fri, 11 Apr 2014 14:14:07 -0000</pubDate>
     <item>
-      <title>2014年元月周末聚会</title>
-      <link>http://shruby.github.io/monthly/2013/12/30/call-2014-jan-weekend.html</link>
-      <description>在2014年元月19日，我们将迎来2014年的第一次周末聚会。无需报名, 没有限制, 只要有兴趣, 想来就来。
+      <title>2014年四月周末聚会</title>
+      <link>http://shruby.github.io/monthly/2014/04/11/call-2014-april-weekend.html</link>
+      <description>在2014年4月27日，我们将迎来2014年的第二次周末聚会。
+本次活动依然**免费**，不过我们这次想尝试在19屋**报名**，这样的目的是为了能够更好的统计人数，做好准备。
 
 [nov2013]: http://shruby.github.io/monthly/callup/2013/11/23/ruby-tuesday.html
 [sept2013]: http://shruby.github.io/monthly/2013/09/21/call-2013-sept-weekend.html
-[discuss]: http://ruby-china.org/topics/node31</description>
-      <pubDate>Mon, 30 Dec 2013 22:14:07 +0800</pubDate>
-      <dc:date>2013-12-30T22:14:07+08:00</dc:date>
+[feb2014]: http://shruby.github.io/monthly/2014/02/10/call-2014-feb-weekend.html
+[discuss]: http://ruby-china.org/topics/node31
+[gitcafe]: http://gitcafe.com
+[报名]: http://19wu.com/shanghairubytuesday
+[jjym]: http://ruby-china.org/jjym
+[xmonkeycn]: http://ruby-china.org/xmonkeycn</description>
+      <pubDate>Fri, 11 Apr 2014 14:14:07 -0000</pubDate>
+      <dc:date>2014-04-11T14:14:07Z</dc:date>
+    </item>
+    <item>
+      <title>2014年四月周中聚会</title>
+      <link>http://shruby.github.io/monthly/callup/2014/04/04/call-2014-april-weekday.html</link>
+      <description>时间已经进入了四月，我们也将迎来四月的Ruby Tuesday聚会。 无需报名, 没有限制, 只要有兴趣, 想来就来。
+
+</description>
+      <pubDate>Fri, 04 Apr 2014 21:29:00 -0000</pubDate>
+      <dc:date>2014-04-04T21:29:00Z</dc:date>
+    </item>
+    <item>
+      <title>2014年三月周中聚会</title>
+      <link>http://shruby.github.io/weekday/2014/03/07/call-2014-march-weekday.html</link>
+      <description>在2014年3月11日，我们将迎来三月周中聚会。无需报名, 没有限制, 只要有兴趣, 想来就来。
+
+</description>
+      <pubDate>Fri, 07 Mar 2014 14:14:07 -0000</pubDate>
+      <dc:date>2014-03-07T14:14:07Z</dc:date>
+    </item>
+    <item>
+      <title>2014年二月周末聚会</title>
+      <link>http://shruby.github.io/monthly/2014/02/10/call-2014-feb-weekend.html</link>
+      <description>在2014年二月23日，我们将迎来2014年的第一次周末聚会。无需报名, 没有限制, 只要有兴趣, 想来就来。
+
+[nov2013]: http://shruby.github.io/monthly/callup/2013/11/23/ruby-tuesday.html
+[sept2013]: http://shruby.github.io/monthly/2013/09/21/call-2013-sept-weekend.html
+[discuss]: http://ruby-china.org/topics/node31
+[vcooline]: http://vcooline.com</description>
+      <pubDate>Mon, 10 Feb 2014 14:14:07 -0000</pubDate>
+      <dc:date>2014-02-10T14:14:07Z</dc:date>
     </item>
     <item>
       <title>2013年12月17日 Ruby Tuesday 活动召集 (周二)</title>
@@ -26,17 +62,17 @@
       <description>在本月17日，我们将迎来12月的周中聚会。
 
 [dianping]: http://www.dianping.com/shop/4600640</description>
-      <pubDate>Fri, 13 Dec 2013 22:14:07 +0800</pubDate>
-      <dc:date>2013-12-13T22:14:07+08:00</dc:date>
+      <pubDate>Fri, 13 Dec 2013 14:14:07 -0000</pubDate>
+      <dc:date>2013-12-13T14:14:07Z</dc:date>
     </item>
     <item>
       <title>2013 年 11 月 23 日 Ruby Tuesday 活动 (周六)</title>
-      <link>http://shruby.github.io/monthly/callup/2013/11/24/ruby-tuesday.html</link>
+      <link>http://shruby.github.io/monthly/callup/2013/11/23/ruby-tuesday.html</link>
       <description>时间: 2013 年 11 月 23 日(周六) 下午 2 点至 5 点
 
 </description>
-      <pubDate>Sun, 24 Nov 2013 06:18:07 +0800</pubDate>
-      <dc:date>2013-11-24T06:18:07+08:00</dc:date>
+      <pubDate>Sat, 23 Nov 2013 22:18:07 -0000</pubDate>
+      <dc:date>2013-11-23T22:18:07Z</dc:date>
     </item>
     <item>
       <title>2013年11月12日 Ruby Tuesday 活动召集 (周二)</title>
@@ -44,8 +80,8 @@
       <description>在本月12日，我们将迎来11月的周中聚会。
 
 [dianping]: http://www.dianping.com/shop/4600640</description>
-      <pubDate>Thu, 07 Nov 2013 22:14:07 +0800</pubDate>
-      <dc:date>2013-11-07T22:14:07+08:00</dc:date>
+      <pubDate>Thu, 07 Nov 2013 14:14:07 -0000</pubDate>
+      <dc:date>2013-11-07T14:14:07Z</dc:date>
     </item>
     <item>
       <title>2013年10月15日 Ruby Tuesday 活动召集 (周二)</title>
@@ -55,17 +91,17 @@
 这次活动计划在浦西举办，地点是大家熟悉的静安寺。
 
 </description>
-      <pubDate>Mon, 07 Oct 2013 19:07:00 +0800</pubDate>
-      <dc:date>2013-10-07T19:07:00+08:00</dc:date>
+      <pubDate>Mon, 07 Oct 2013 11:07:00 -0000</pubDate>
+      <dc:date>2013-10-07T11:07:00Z</dc:date>
     </item>
     <item>
       <title>为 Shanghai Ruby User Group 创建了一个 Twitter 同步账号</title>
-      <link>http://shruby.github.io/twitter/accounts/2013/09/30/new-twitter-account-for-shruby.html</link>
+      <link>http://shruby.github.io/twitter/accounts/2013/09/29/new-twitter-account-for-shruby.html</link>
       <description>之前在 [Github](https://github.com/shruby/shruby.github.io/issues/27) 上提到过要为 Shanghai Ruby User Group 弄个 Twitter 账号同步Feeds，经过一晚上的编码，已经完成了。
 
 </description>
-      <pubDate>Mon, 30 Sep 2013 07:51:20 +0800</pubDate>
-      <dc:date>2013-09-30T07:51:20+08:00</dc:date>
+      <pubDate>Sun, 29 Sep 2013 23:51:20 -0000</pubDate>
+      <dc:date>2013-09-29T23:51:20Z</dc:date>
     </item>
     <item>
       <title>2013年9月周末聚会</title>
@@ -74,8 +110,8 @@
 
 [discuss]: http://ruby-china.org/topics/14059
 [mvc]: https://github.com/camsong/yui.rocket</description>
-      <pubDate>Sat, 21 Sep 2013 22:14:07 +0800</pubDate>
-      <dc:date>2013-09-21T22:14:07+08:00</dc:date>
+      <pubDate>Sat, 21 Sep 2013 14:14:07 -0000</pubDate>
+      <dc:date>2013-09-21T14:14:07Z</dc:date>
     </item>
     <item>
       <title>开张啦</title>
@@ -85,9 +121,9 @@
 [shruby]: https://github.com/shruby/shruby.github.io
 [jekyll]: http://jekyllrb.com
 [issue]: https://github.com/shruby/shruby.github.io/issues/new</description>
-      <pubDate>Thu, 12 Sep 2013 21:14:07 +0800</pubDate>
-      <dc:date>2013-09-12T21:14:07+08:00</dc:date>
+      <pubDate>Thu, 12 Sep 2013 13:14:07 -0000</pubDate>
+      <dc:date>2013-09-12T13:14:07Z</dc:date>
     </item>
-    <dc:date>2013-12-30T22:14:07+08:00</dc:date>
+    <dc:date>2014-04-11T14:14:07Z</dc:date>
   </channel>
 </rss>
