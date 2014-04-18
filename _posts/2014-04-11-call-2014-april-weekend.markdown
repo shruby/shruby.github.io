@@ -12,7 +12,9 @@ categories: monthly
 
 ##时间：2014年4月27日 下午2点到5点
 
-##地点： Gitcafe，上海市浦东新区乳山路506弄上海滩花园洋房南区1号楼5楼
+##地点： GitCafe，上海市浦东新区乳山路506弄上海滩花园洋房南区1号楼5楼
+
+![address](http://19wu.com/uploads/photo/image/47/normal_Screen_Shot_2014-04-18_at_1.49.17_PM.png)
 
 ##交通方式：地铁6号线，源深体育中心站
 
@@ -26,7 +28,7 @@ categories: monthly
 
 同时征集主题中！
 
-##场地赞助: gitcafe
+##场地赞助: GitCafe
 
 [GitCafe][gitcafe] 是一个为您在线托管软件项目的服务平台。 这里是一个大家庭，您可以在 [GitCafe][gitcafe] 与他人快乐地进行项目分享与协作。 现在就加入 [GitCafe][gitcafe]，找到喜欢的项目与志同道合的程序员！
 
