@@ -4,6 +4,11 @@
   twitter: iBachue
   self_intro: 周融，Ruby 程序员，生在上海，长在上海，现在在 EMC 上海 COE 工作。喜欢 Ruby / Unix 编程。虽然平时写 Ruby，却更喜欢热爱钻研底层原理和实现。
 
+- name: Dave
+  github: menghuanwd
+  ruby_china: menghuanwd
+  self_intro: 顾益峰，90 后，Ruby 程序员。没事的时候喜欢研究新技术，目前在喜马拉雅工作。
+
 - name: Eric Guo
   github: Eric-Guo
   ruby_china: ericguo
