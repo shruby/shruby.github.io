@@ -8,7 +8,21 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Sat, 07 Jun 2014 21:01:00 -0000</pubDate>
+    <pubDate>Sun, 20 Jul 2014 14:14:07 -0000</pubDate>
+    <item>
+      <title>2014年七月周末聚会</title>
+      <link>http://shruby.github.io/monthly/2014/07/20/call-2014-july-weekend.html</link>
+      <description>在2014年7月20日，我们将迎来2014年的第三次周末聚会。本次活动依然免费，由于19屋有故障我们本帖报名，这样的目的是为了能够更好的统计人数，做好准备，避免准备不足的尴尬。
+
+[nov2013]: http://shruby.github.io/monthly/callup/2013/11/24/ruby-tuesday.html
+[sept2013]: http://shruby.github.io/monthly/2013/09/21/call-2013-sept-weekend.html
+[feb2014]: http://shruby.github.io/monthly/2014/02/10/call-2014-feb-weekend.html
+[discuss]: http://ruby-china.org/topics/node31
+[gitcafe]: http://gitcafe.com
+[19wu]: http://19wu.com/shanghairubytuesday</description>
+      <pubDate>Sun, 20 Jul 2014 14:14:07 -0000</pubDate>
+      <dc:date>2014-07-20T14:14:07Z</dc:date>
+    </item>
     <item>
       <title>2014年六月周中聚会</title>
       <link>http://shruby.github.io/monthly/callup/2014/06/07/call-2014-june-weekday.html</link>
@@ -142,7 +156,6 @@
       <pubDate>Thu, 12 Sep 2013 13:14:07 -0000</pubDate>
       <dc:date>2013-09-12T13:14:07Z</dc:date>
     </item>
-    <dc:date>2014-06-07T21:01:00Z</dc:date>
+    <dc:date>2014-07-20T14:14:07Z</dc:date>
   </channel>
 </rss>
-
