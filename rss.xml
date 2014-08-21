@@ -8,7 +8,19 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Thu, 07 Aug 2014 23:45:00 -0000</pubDate>
+    <pubDate>Sat, 16 Aug 2014 09:30:00 -0000</pubDate>
+    <item>
+      <title>2014年八月七周七语言之 Ruby</title>
+      <link>http://shruby.github.io/activity/2014/08/16/seven-languages-in-seven-weeks-ruby.html</link>
+      <description>GDG上海的组织者和我们上海Ruby社区打算在8月16日在静安区某处举办一个一天的《七周七语言之Ruby》活动。其针对的是广大软件开发人员，对Ruby感兴趣或想通过活动提高Ruby技术。
+
+[ruby-hacker-happy-hacker-slides]: http://bachue.github.io/ruby-hacker-happy-hacker-slides
+[from-delphi-to-ruby]: http://prezi.com/sp1leyjaq_ok/from-delphi-to-ruby/
+[love-ruby]: http://www.slideshare.net/vincent253/love-ruby
+[aug2014]: http://shruby.github.io/monthly/callup/2014/08/07/call-2014-august-weekday.html</description>
+      <pubDate>Sat, 16 Aug 2014 09:30:00 -0000</pubDate>
+      <dc:date>2014-08-16T09:30:00Z</dc:date>
+    </item>
     <item>
       <title>2014年八月周中聚会</title>
       <link>http://shruby.github.io/monthly/callup/2014/08/07/call-2014-august-weekday.html</link>
@@ -165,6 +177,6 @@
       <pubDate>Thu, 12 Sep 2013 13:14:07 -0000</pubDate>
       <dc:date>2013-09-12T13:14:07Z</dc:date>
     </item>
-    <dc:date>2014-08-07T23:45:00Z</dc:date>
+    <dc:date>2014-08-16T09:30:00Z</dc:date>
   </channel>
 </rss>
