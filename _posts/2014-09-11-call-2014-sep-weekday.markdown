@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2014年八月周中聚会"
+title:  "2014年九月周中聚会"
 date:   2014-09-11 15:19:00
 categories: monthly callup
 ---
