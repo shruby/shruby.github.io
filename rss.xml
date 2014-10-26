@@ -8,9 +8,18 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Thu, 11 Sep 2014 15:19:00 -0000</pubDate>
+    <pubDate>Tue, 21 Oct 2014 19:00:00 -0000</pubDate>
     <item>
-      <title>2014年八月周中聚会</title>
+      <title>2014年十月周中聚会</title>
+      <link>http://shruby.github.io/monthly/callup/2014/10/21/call-2014-oct-weekday.html</link>
+      <description>####时间：2014年10月21日(周二) 晚上7点到9点
+
+</description>
+      <pubDate>Tue, 21 Oct 2014 19:00:00 -0000</pubDate>
+      <dc:date>2014-10-21T19:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>2014年九月周中聚会</title>
       <link>http://shruby.github.io/monthly/callup/2014/09/11/call-2014-sep-weekday.html</link>
       <description>####时间：2014年09月16日(周二) 晚上7点到9点
 
@@ -186,6 +195,6 @@
       <pubDate>Thu, 12 Sep 2013 13:14:07 -0000</pubDate>
       <dc:date>2013-09-12T13:14:07Z</dc:date>
     </item>
-    <dc:date>2014-09-11T15:19:00Z</dc:date>
+    <dc:date>2014-10-21T19:00:00Z</dc:date>
   </channel>
 </rss>
