@@ -8,7 +8,34 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Tue, 11 Nov 2014 19:30:00 -0000</pubDate>
+    <pubDate>Sat, 20 Dec 2014 14:00:00 -0000</pubDate>
+    <item>
+      <title>Ruby Shanghai 2014年终聚会</title>
+      <link>http://shruby.github.io/activity/2014/12/20/ruby-shanghai-2014-party.html</link>
+      <description>## 时间: 2014年12月20日(周六) 下午2点到6点
+
+[Better Rails by Knowing Better Database]: https://speakerdeck.com/sishen/better-rails-by-knowing-better-database
+[ROR开发遇到的问题]: https://ruby-china.org/topics/23517
+[新手学习Web开发经验分享]: https://speakerdeck.com/genewoo/xin-shou-xue-xi-webkai-fa-jing-yan-fen-xiang
+[Ruby Require]: https://speakerdeck.com/genewoo/ruby-require
+[用Grape + Swagger 开发API]: https://speakerdeck.com/genewoo/api-documentation-with-swagger-ui
+[prizes]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_gene_1.jpeg
+[yedingding]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_7.jpg
+[liuhengde]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_9.jpg
+[shin]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_8.jpg
+[gene]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_18.jpg
+[lvxiaorong]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_19.jpg
+[wujiang]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_gene_2.jpeg
+[self introduction]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_15.jpg
+[group photo]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_1.jpg
+[qrcode]: http://shruby.u.qiniudn.com/20141220_RubyShanghai_2014Party_gene_qrcode.png
+[begin topic on ruby china]: https://ruby-china.org/topics/22798 
+[end topic on ruby china]: https://ruby-china.org/topics/23663
+[seven-languages-in-seven-weeks-ruby]: http://shruby.github.io/activity/2014/08/16/seven-languages-in-seven-weeks-ruby.html
+[nov2014]: http://shruby.github.io/monthly/callup/2014/11/11/call-2014-nov-weekday.html</description>
+      <pubDate>Sat, 20 Dec 2014 14:00:00 -0000</pubDate>
+      <dc:date>2014-12-20T14:00:00Z</dc:date>
+    </item>
     <item>
       <title>2014年十一月周中聚会</title>
       <link>http://shruby.github.io/monthly/callup/2014/11/11/call-2014-nov-weekday.html</link>
@@ -204,6 +231,6 @@
       <pubDate>Thu, 12 Sep 2013 13:14:07 -0000</pubDate>
       <dc:date>2013-09-12T13:14:07Z</dc:date>
     </item>
-    <dc:date>2014-11-11T19:30:00Z</dc:date>
+    <dc:date>2014-12-20T14:00:00Z</dc:date>
   </channel>
 </rss>
