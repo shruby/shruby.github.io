@@ -8,7 +8,17 @@
     <title>Shanghai Ruby User Group</title>
     <link>http://shruby.github.io</link>
     <description>Web site of ShRuby.github.io</description>
-    <pubDate>Tue, 20 Jan 2015 19:30:00 -0000</pubDate>
+    <pubDate>Tue, 10 Feb 2015 19:30:00 -0000</pubDate>
+    <item>
+      <title>2015年二月周中聚会</title>
+      <link>http://shruby.github.io/monthly/callup/2015/02/10/call-2015-feb-weekday.html</link>
+      <description>####时间：2015年02月10日(周二) 晚上7点半到9点
+
+[1]: https://ruby-china.org/vincent
+[2]: https://ruby-china.org/xiaoronglv</description>
+      <pubDate>Tue, 10 Feb 2015 19:30:00 -0000</pubDate>
+      <dc:date>2015-02-10T19:30:00Z</dc:date>
+    </item>
     <item>
       <title>2015年一月周中聚会</title>
       <link>http://shruby.github.io/monthly/callup/2015/01/20/call-2015-jan-weekday.html</link>
@@ -242,6 +252,6 @@
       <pubDate>Thu, 12 Sep 2013 13:14:07 -0000</pubDate>
       <dc:date>2013-09-12T13:14:07Z</dc:date>
     </item>
-    <dc:date>2015-01-20T19:30:00Z</dc:date>
+    <dc:date>2015-02-10T19:30:00Z</dc:date>
   </channel>
 </rss>
