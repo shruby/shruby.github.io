@@ -17,7 +17,7 @@ categories: quarterly callup
 
 Slide下载: [百度网盘](http://pan.baidu.com/s/1qWqiuuS) [SpeakerDeck](https://speakerdeck.com/xiewenwei/ruby-fu-wu-jian-tong-xin-mo-shi)
 
-![Vincent]({{ site.url }}/media/files/2015-03-30-vincent.jpg)
+![Vincent]({{ site.url }}/media/file/2015-03-30-vincent.jpg)
 
 ### 2. Quake Wang： Lego和Ruby
 
@@ -25,11 +25,11 @@ Slide下载: [百度网盘](http://pan.baidu.com/s/1qWqiuuS) [SpeakerDeck](https
 
 Quake Wang 在展示他家的 F1 赛车
 
-![Formula 1]({{ site.url }}/media/files/2015-03-30-wang-1.jpg)
+![Formula 1]({{ site.url }}/media/file/2015-03-30-wang-1.jpg)
 
 他和他儿子共同组装的蓝翔挖掘机
 
-![Grab]({{ site.url }}/media/files/2015-03-30-wang-2.jpg)
+![Grab]({{ site.url }}/media/file/2015-03-30-wang-2.jpg)
 
 ### 3. 郭达峰：react.js
 
