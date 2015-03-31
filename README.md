@@ -6,15 +6,15 @@ Shanghai Ruby User Group 网站
 你需要使用 Ruby 1.9.3，pull 下来以后运行
 
     bundle install
-   
+
 如果你用的是 rbenv 需要运行
-    
+
     rehash
 
 之后你就有了 jekyll 的命令，请尝试运行
 
     jekyll serve --watch
-    
+
 在浏览器中打开 [http://localhost:4000][debug] 就可以看到和网站一样的效果了。
 
 # 如何纪录新的博客
@@ -29,12 +29,11 @@ Shanghai Ruby User Group 网站
     ---
 
 在本地你可以通过运行以下命令来预览草稿.
-    
+
     jekyll serve --watch --drafts
-    
+
 如果一切都看上去不错，就把这个文件转移到 _posts 目录下再commit。
 
-由于 Github page 的限制，其无法使用第三方生成插件，所以你需要多做一步工作，在你的拷贝的根目录下运行 ```rake``` ,这样就会自动生成rss.xml文件，github page 就可以自动获取
 
 最后一步，提交 pull request ！
 

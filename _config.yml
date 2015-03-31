@@ -3,8 +3,8 @@ markdown: redcarpet
 pygments: true
 timezone: Asia/Shanghai
 keep_files:  ['.git']
-site: http://shruby.github.io
-url: http://shruby.github.io
+site: "http://shruby.org"
+url: "http://shruby.org"
 description: 'Web site of ShRuby.github.io'
 exclude: ["vendor"]
 
