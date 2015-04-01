@@ -5,7 +5,7 @@ timezone: Asia/Shanghai
 keep_files:  ['.git']
 site: "http://shruby.org"
 url: "http://shruby.org"
-description: 'Web site of ShRuby.github.io'
+description: 'Web site of Shanghai Ruby User Group'
 exclude: ["vendor"]
 
 save: true
