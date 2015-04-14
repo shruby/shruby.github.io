@@ -6,7 +6,9 @@ categories: monthly callup
 ---
 
 时间：2015年4月14日(周二)  19:00 - 21:00
+
 地点： COSTA coffee 国金中心店，浦东新区世纪大道8号上海国金中心D座B1楼LG1-37室
+
 百度地图：http://j.map.baidu.com/6iIsp
 
 ## 主题
