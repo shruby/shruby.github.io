@@ -24,3 +24,9 @@ categories: monthly callup
 2. Leon[qianthinking](https://ruby-china.org/qianthinking) 提供一个2米的插线板
 
 ![](https://ruby-china-files.b0.upaiyun.com/photo/2015/8b9457db0936050732b40ee4f65c1072.jpg)
+
+## 参考资料
+
+1. [Ruby China 活动召集帖](https://ruby-china.org/topics/25066)
+
+2. [丁彦 PPT 下载](https://speakerdeck.com/xiaoronglv/shu-ju-wa-jue-cong-0dao-1)
